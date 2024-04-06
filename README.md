@@ -4,15 +4,15 @@
 <p align=center>ToLearn一起来学-用户匹配系统</p>
 <p align="center">
 	<a target="_blank" href="https://github.com/BraumAce/ToLearn-backend"></a>
-    	<img src="https://img.shields.io/badge/license-Apache%202.0-blue"></img>
-        <img src="https://img.shields.io/badge/Node-20.12.2-green"></img>
-        <img src="https://img.shields.io/badge/Vue-3.4.21-green"></img>
-		<img src="https://img.shields.io/badge/Vant-3.8.8-green"></img>
-        <img src="https://img.shields.io/badge/Vite-5.2.0-green"></img>
-		<img src="https://img.shields.io/badge/qs-6.12.0-green"></img>
-		<img src="https://img.shields.io/badge/Vue--Router-6.12.0-green"></img>
-		<img src="https://img.shields.io/badge/TypeScript-5.2.2-green"></img>
-		<img src="https://img.shields.io/badge/Axios-1.6.8-green"></img>
+	<img src="https://img.shields.io/badge/license-Apache%202.0-blue"></img>
+	<img src="https://img.shields.io/badge/Node-20.12.2-green"></img>
+	<img src="https://img.shields.io/badge/Vue-3.4.21-green"></img>
+	<img src="https://img.shields.io/badge/Vant-3.8.8-green"></img>
+	<img src="https://img.shields.io/badge/Vite-5.2.0-green"></img>
+	<img src="https://img.shields.io/badge/qs-6.12.0-green"></img>
+	<img src="https://img.shields.io/badge/Vue--Router-6.12.0-green"></img>
+	<img src="https://img.shields.io/badge/TypeScript-5.2.2-green"></img>
+	<img src="https://img.shields.io/badge/Axios-1.6.8-green"></img>
 </p>
 
 
